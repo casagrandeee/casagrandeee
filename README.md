@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Software Engineering Student** with a strong passi
 
 ### 🚀 About Me
 
-I’m currently in my sixth semester of Software Engineering at **Univille - Joinville, SC, Brazil**. I work at **Becomex** in the **Data Delivery Intelligence (DDI)** department, where I am continuously enhancing my development skills field I am passionate about and have been studying for the past three years.
+I’m currently in my seventh semester of Software Engineering at **Univille - Joinville, SC, Brazil**. I work at **Becomex** in the **Data Delivery Intelligence (DDI)** department, where I am continuously enhancing my development skills field I am passionate about and have been studying for the past three years.
 
 ---
 
