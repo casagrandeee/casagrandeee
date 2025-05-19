@@ -64,7 +64,7 @@ You can follow my learning journey and progression through this GitHub. Every co
 
 ### 📅 Current Focus
 
-- 🛠️ Day 4 of my **10,000-hour journey** toward Full Stack expertise  
+- 🛠️ Day 5 of my **10,000-hour journey** toward Full Stack expertise  
 - 🧠 Studying **Static project (Portfolio) + deploy** and setting up my full development environment  
 - 🌍 Open to internship and junior opportunities in Europe  
 
