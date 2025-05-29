@@ -64,7 +64,7 @@ You can follow my learning journey and progression through this GitHub. Every co
 
 ### 📅 Current Focus
 
-- 🛠️ Day 7 of my **10,000-hour journey** toward Full Stack expertise  
+- 🛠️ Day 8 of my **10,000-hour journey** toward Full Stack expertise  
 - 🧠 Studying **DOM (Document Object Model)** and setting up my full development environment  
 - 🌍 Open to internship and junior opportunities in Europe  
 
