@@ -64,8 +64,8 @@ You can follow my learning journey and progression through this GitHub. Every co
 
 ### 📅 Current Focus
 
-- 🛠️ Day 11 of my **10,000-hour journey** toward Full Stack expertise  
-- 🧠 Studying **Integration  Front + Back** and setting up my full development environment  
+- 🛠️ Day 12 of my **10,000-hour journey** toward Full Stack expertise  
+- 🧠 Studying **Basic FullStack Project** and setting up my full development environment  
 - 🌍 Open to internship and junior opportunities in Europe  
 
 Check out my [`fullstack-roadmap`](https://github.com/casagrandeee/fullstack-roadmap) repo for updates and projects!
