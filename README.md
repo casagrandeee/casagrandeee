@@ -64,8 +64,8 @@ You can follow my learning journey and progression through this GitHub. Every co
 
 ### 📅 Current Focus
 
-- 🛠️ Day 18 of my **10,000-hour journey** toward Full Stack expertise  
-- 🧠 Studying **React: developing with JavaScript React: developing with JavaScript** and setting up my full development environment  
+- 🛠️ Day 19 of my **10,000-hour journey** toward Full Stack expertise  
+- 🧠 Studying **React: How Components Work** and setting up my full development environment  
 - 🌍 Open to internship and junior opportunities in Europe
 
 Check out my [`fullstack-roadmap`](https://github.com/casagrandeee/fullstack-roadmap) repo for updates and projects!
